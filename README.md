@@ -1,2 +1,3 @@
-# grupo1
-Primer grupo de area III
+# Grupo 1
+
+Primer grupo de electiva de area III
