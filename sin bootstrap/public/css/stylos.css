@@ -1,0 +1,56 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	font-size: sans-serif;
+	width: 100%;
+	background: #eee;
+}
+
+.contenedor{
+	width: 80%;
+	background: #fff;
+	margin: auto;
+}
+
+.menu{
+	width: 100%;
+	background: #127dbd;
+}
+
+.menu ul li{
+	list-style: none;
+	display: inline;
+}
+
+.menu ul li a{
+	text-decoration: none;
+	display: inline-block;
+	padding: 20px;
+	color: #eee;
+}
+
+.menu ul li a:hover{
+	color: #fff;
+}
+
+.main section{
+	width: 57%;
+	display: inline-block;
+	padding: 8px;
+}
+
+.main article{
+	width: 37%;
+	display: inline-block;
+	padding: 8px;
+	vertical-align: top;
+}
+
+footer.footer{
+	background: #333;
+	padding: 10px 0;
+	color: #fff;
+}
