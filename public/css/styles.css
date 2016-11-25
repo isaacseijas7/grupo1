@@ -1,13 +1,61 @@
 #banner{
-	background-image: url('../img/bootstrap.png');
+	background-image: url('../img/bg.png');
 	background-repeat: no-repeat;
 	background-size: cover;
   	height: 200px;
+  	padding: 80px;
+  	color: #fff;
 }
 
-.footer{
+footer.footer{
 	background: #333;
 	color: #fff;
 	padding: 10px 0;
 	margin-top: 10px;
+}
+
+.panels__item{
+	position: absolute;
+	top: -1000%;
+}
+
+.panels__item.active{
+	position: relative;
+	top: 0;
+}
+
+.social-medias, .telefonos{
+	width: 100%;
+	text-align: center;
+}
+
+.social-medias li{
+	list-style: none;
+	display: inline-block;
+	font-size: 80px;
+	margin: 10px;
+}
+
+.social-medias li a{
+	text-decoration: none;
+}
+
+.telefonos li{
+	list-style: none;
+	display: inline-block;
+	font-size: 20px;
+	margin: 10px;
+}
+
+.telefonos li a{
+	text-decoration: none;
+}
+
+.footer_item li{
+	list-style: none;
+	font-size: 17px;
+}
+
+.footer_item li a{
+	text-decoration: none;
 }
