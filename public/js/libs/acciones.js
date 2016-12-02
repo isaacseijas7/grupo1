@@ -1,7 +1,6 @@
 (function ( w, d, n ) {
-	
 	'use strict';
-
+	
 	class Acciones{
 		
 		constructor(){
@@ -60,3 +59,5 @@
 	}
 
 })( window, document, navigator );
+
+

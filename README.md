@@ -5,3 +5,5 @@ Primer grupo de electiva de area III
 integrantes = {
 	nombres:  ['Selene', 'José', 'Isaac']	
 }
+
+Nota: ejecutar bajo ambienté servidor
